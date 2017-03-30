@@ -1,0 +1,11 @@
+.media {
+  cursor: pointer;
+}
+
+.media:hover {
+  background-color: #eee;
+}
+
+.input-group {
+  padding: 20px 0;
+}
